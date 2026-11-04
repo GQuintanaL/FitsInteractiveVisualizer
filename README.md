@@ -7,7 +7,7 @@ Everything runs locally in your browser: your data never leave your computer.
 ![screenshot](docs/screenshot.png)
 <!-- TODO: add a screenshot (e.g. a CO cube of an evolved star) in docs/screenshot.png -->
 
-**Live demo:** https://YOUR-USER.github.io/fits3d-viewer/ <!-- TODO: enable GitHub Pages -->
+**Live demo:** https://GQuintanaL.github.io/FitsInteractiveVisualizer/ <!-- TODO: enable GitHub Pages -->
 
 ## Features
 
