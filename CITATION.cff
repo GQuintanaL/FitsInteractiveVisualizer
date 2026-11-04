@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "FITS Cube 3D Viewer"
+type: software
+authors:
+  - family-names: "Quintana-Lacaci"
+    given-names: "Guillermo"
+    affiliation: "IFF-CSIC"
+    orcid: "https://orcid.org/0000-0002-5417-1943"
+version: "1.0.0"
+date-released: "2026-11-03"
+license: MIT
+repository-code: "https://github.com/GQuintanaL/FitsInteractiveVisualizer/"
+keywords:
+  - astronomy
+  - FITS
+  - spectral line cubes
+  - 3D visualization
+  - radio astronomy
+  - WebGL
+# After the first GitHub release is archived on Zenodo, add:
+# doi: "10.5281/zenodo.XXXXXXX"
+# and, once on arXiv, a preferred-citation block pointing to the paper.
