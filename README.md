@@ -4,7 +4,7 @@ A single-file, zero-install, browser-based viewer for position–position–velo
 
 Everything runs locally in your browser: your data never leave your computer.
 
-![screenshot](docs/screenshot.png)
+![screenshot](screenshot.png)
 <!-- TODO: add a screenshot (e.g. a CO cube of an evolved star) in docs/screenshot.png -->
 
 **Live demo:** https://GQuintanaL.github.io/FitsInteractiveVisualizer/ <!-- TODO: enable GitHub Pages -->
